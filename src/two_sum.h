@@ -17,7 +17,7 @@ using  namespace std;
  * if map[b] found a previous value that means
  *      we find num + b = target
  *
- * for K-sum question which K > 2, sort first is more effective than brute force searching.
+ * for K-sum question which K > 2, do sorting first is more effective than brute force searching.
  *
  */
 
